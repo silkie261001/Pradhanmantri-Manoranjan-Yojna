@@ -24,7 +24,7 @@ Team Name: Hypertext Assassin's
 * [Neeraj Chatterjee](https://github.com/NeerajChatterjee)
 * [Shivanand](https://github.com/pinnacle20)
 
-##Briefing powerpoint presentation
+## Briefing powerpoint presentation
 
 https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/HYPERTEXT%20ASSASSINS.pptx (Please view raw file)
 
