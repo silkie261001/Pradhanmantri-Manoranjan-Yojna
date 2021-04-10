@@ -12,14 +12,12 @@
 
 Team Hypertext Assassins' main motto is to present a platform to the audience where they can enjoy and get knowledge regarding COVID-19. So, we made a website that focuses on every aspect like entertainment, vaccine registration form, awareness through SOP's, COVID-19 cases tracker across the world.
 
-## Technology Stack:
-1) HTML
-2) CSS
-3) JavaScript
+## Technology Stack used:
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   
 ## Contributors:
 
-Team Name: Hypertext Assassins
+Team Name: Hypertext Assassin's
 
 * [Silkie Agarwal](https://github.com/silkie261001)
 * [Kartikey Gupta](https://github.com/kartikey2991)
