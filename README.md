@@ -5,7 +5,7 @@
 </p>
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
-<b>Check it out :fire:<a href=https://silkie261001.github.io/Pradhanmantri-Manoranjan-Yojna/HERE</a></b>:fire:
+<b>Check it out :fire:<a href=https://silkie261001.github.io/Pradhanmantri-Manoranjan-Yojna/>HERE</a></b>:fire:.
 
 ## Introduction:
   
