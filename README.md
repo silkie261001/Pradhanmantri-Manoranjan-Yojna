@@ -42,7 +42,7 @@ Team Name: Hypertext Assassin's
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-    <b>Video :fire:<a href=https://drive.google.com/drive/folders/1cVYAYB_ll1XQpMDdmZ_rMhwAa-T3Brhi/>HERE</a></b>:fire:.
+    <b>Check it out Video :fire:<a href=https://drive.google.com/drive/folders/1cVYAYB_ll1XQpMDdmZ_rMhwAa-T3Brhi>HERE</a></b>:fire:.
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
