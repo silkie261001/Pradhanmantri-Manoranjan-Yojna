@@ -24,7 +24,7 @@ Team Name: Hypertext Assassin's
 * [Neeraj Chatterjee](https://github.com/NeerajChatterjee)
 * [Shivanand](https://github.com/pinnacle20)
 
-## Screenshots and videos
+## Screenshots
 
 <img src="https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/screenshot1.jpg"
      alt="Markdown Monster icon"
@@ -41,8 +41,6 @@ Team Name: Hypertext Assassin's
 <img src="https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/screenshot5.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-     
-    <b><a href=https://drive.google.com/drive/folders/1cVYAYB_ll1XQpMDdmZ_rMhwAa-T3Brhi>VIDEO</a></b>
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
