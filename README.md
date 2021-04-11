@@ -46,8 +46,7 @@ https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/HYPERTE
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-# Video link<div align="center">
-     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=KlEOoRm5-I4&t=115s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
