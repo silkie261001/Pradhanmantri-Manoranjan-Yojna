@@ -46,8 +46,13 @@ https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/HYPERTE
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-# Video link
-  https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/Video
+# Video link<div align="center">
+      <a href="https://www.youtube.com/watch?v=KlEOoRm5-I4&t=115s">
+     <img 
+      src="https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/ss1.jpg" 
+      style="width:100%;">
+      </a>
+    </div>
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
