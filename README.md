@@ -47,12 +47,7 @@ https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/HYPERTE
      style="float: left; margin-right: 10px;" />
      
 # Video link<div align="center">
-      <a href="https://www.youtube.com/watch?v=KlEOoRm5-I4&t=115s">
-     <img 
-      src="https://github.com/silkie261001/Pradhanmantri-Manoranjan-Yojna/blob/main/ss1.jpg" 
-      style="width:100%;">
-      </a>
-    </div>
+     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=KlEOoRm5-I4&t=115s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
